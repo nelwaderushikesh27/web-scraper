@@ -22,7 +22,7 @@ A powerful and flexible web scraping tool built with Python.
 
 ```bash
 # Clone
-git clone https://github.com/YOUR_USERNAME/web-scraper.git
+git clone https://github.com/nelwaderushikesh27/web-scraper.git
 
 # Install dependencies
 pip install -r requirements.txt
